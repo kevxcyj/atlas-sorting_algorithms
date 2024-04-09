@@ -1,5 +1,5 @@
-#ifndef _HEADER_
-#define _HEADER_
+#ifndef _SORT_H_
+#define _SORT_H_
 
 /**
  * struct listint_s - Doubly linked list node
@@ -21,6 +21,7 @@ void print_array(const int *array, size_t size);
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#include <stddef.h>
 
 
 
